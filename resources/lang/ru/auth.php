@@ -7,7 +7,7 @@ return [
     'main' => 'Главная',
     'email' => 'Email',
     'password' => 'Пароль',
+    'tasks' => 'Задачи',
     'failed' => 'These credentials do not match our records.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
 ];
